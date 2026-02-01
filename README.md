@@ -1,44 +1,58 @@
 ## Hi 👋 I'm Manoj Kumar Chunduru
 
-**Data Engineer** with 6+ years of experience building scalable cloud data platforms, ETL/ELT pipelines, and analytics-ready models across **AWS + Databricks/Redshift** and **GCP (Dataflow/BigQuery)**.
+🎯 **Data Engineer | Cloud & Analytics**  
+📍 United States  
 
-- 🔁 Batch + streaming pipelines (Spark, Airflow, Kinesis/Kafka)
-- 🧱 Data modeling (fact/dim), validation frameworks, and SQL optimization
-- ☁️ AWS (Redshift, Glue, Lambda, S3, Step Functions) + Databricks
-- 🌐 GCP (Dataflow, BigQuery, Pub/Sub, Dataproc, Cloud Composer)
+---
+
+### 👨‍💼 Professional Summary
+- Data Engineer with **6+ years of experience** designing and building scalable data platforms
+- Strong expertise in **AWS, Databricks, Redshift, Snowflake, and GCP**
+- Hands-on with **batch & streaming pipelines** using Spark, Airflow, Kafka, and Kinesis
+- Experienced in **ETL/ELT, data modeling, validation frameworks, and performance tuning**
+- Passionate about turning raw data into **analytics-ready datasets and insights**
 
 ---
 
 ### 💼 Current Role
-**Data Engineer — Merck (Mar 2024 – Present)**  
-Building AWS-based pipelines integrating **Databricks + Redshift + S3**, implementing data validation and reconciliation checks, and delivering analytics-ready models and dashboards.  
+**Data Engineer — Merck**  
+- Building AWS-based pipelines using **Databricks, Redshift, and S3**
+- Implementing **data validation, reconciliation, and monitoring frameworks**
+- Supporting analytics and reporting use cases with optimized data models
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 
-**Languages:** Python · SQL · PySpark · Scala · Java  
-**Data/Big Data:** Spark · Hadoop · Hive · Apache Beam  
-**Orchestration:** Airflow · Step Functions · Cloud Composer  
-**Streaming:** Kinesis · Kafka · Spark Streaming · Pub/Sub  
-**Warehouses/DBs:** Redshift · BigQuery · Snowflake · PostgreSQL · SQL Server  
-**DevOps:** Git · Jenkins · GitHub Actions · Docker · Terraform  
+#### 🧑‍💻 Languages
+Python · SQL · PySpark · Scala · Java  
+
+#### ☁️ Cloud & Data Platforms
+AWS · Databricks · Redshift · Snowflake · GCP · BigQuery  
+
+#### 🔁 Data Engineering
+Apache Spark · Airflow · dbt · Kafka · Kinesis · Hadoop · Hive  
+
+#### ⚙️ Tools & DevOps
+Git · GitHub Actions · Jenkins · Docker · Terraform  
 
 ---
 
-### 📌 Featured Work (Pin these on your profile)
-- ✅ **AWS + Databricks + Redshift** data pipelines (batch + streaming)
-- ✅ **dbt + Airflow** analytics modeling & lineage
-- ✅ **Kinesis/Kafka** near real-time ingestion
-- ✅ **GCP Dataflow + BigQuery** ETL / streaming pipelines
+### 📌 Featured Projects
+*(Pin these repositories on your profile)*  
+- **AWS + Databricks + Redshift ETL Pipelines**  
+- **Streaming Pipelines using Kafka / Kinesis**  
+- **dbt Analytics Models & Airflow Orchestration**  
+- **GCP Dataflow & BigQuery Pipelines**
 
 ---
 
 ### 🎓 Education
-**Master’s in Information Systems** — Washington University of Science and Technology (2023–2024)
+**Master’s in Information Systems**  
+Washington University of Science and Technology
 
 ---
 
-### 🤝 Connect
-- LinkedIn: (add your link)
-- Email: manojkumarchunduru69@gmail.com
+### 🤝 Connect With Me
+- 💼 LinkedIn: *add your LinkedIn URL*
+- 💻 GitHub: https://github.com/manojkumarchunduru69-coder

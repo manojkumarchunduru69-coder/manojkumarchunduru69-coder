@@ -29,14 +29,16 @@ Collaborated with analytics and business teams to deliver analytics-ready data m
 ---
 
 ### 🛠️ Tech Stack
+Python · SQL · PySpark · Scala · Java  
 
-•	💻 Languages: Python Java C++ R SQL HTML CSS JavaScript          
-•	🛢 Databases:        
-•	⚙️ Frameworks:      
-•	🌐 Cloud:    
-•	📊 Tools:          
-•	🧠 Big Data:    
-•	🏆 Certifications:    
+☁️ Cloud & Data Platforms
+AWS · Databricks · Redshift · Snowflake · GCP · BigQuery  
+
+🔁 Data Engineering
+Apache Spark · Airflow · dbt · Kafka · Kinesis · Hadoop · Hive  
+
+⚙️ Tools & DevOps
+Git · GitHub Actions · Jenkins · Docker · Terraform  
 
 
 

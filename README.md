@@ -51,5 +51,5 @@ Washington University of Science and Technology
 ---
 
 ### 🤝 Connect With Me
-- 💼 LinkedIn: *add your LinkedIn URL*
+- 💼 LinkedIn: https://www.linkedin.com/in/manoj-kumar-a9b46b381/
 - 💻 GitHub: https://github.com/manojkumarchunduru69-coder

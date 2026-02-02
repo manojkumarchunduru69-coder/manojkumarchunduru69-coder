@@ -16,9 +16,15 @@
 
 ### 💼 Current Role
 **Data Engineer — Merck**  
-- Building AWS-based pipelines using **Databricks, Redshift, and S3**
-- Implementing **data validation, reconciliation, and monitoring frameworks**
-- Supporting analytics and reporting use cases with optimized data models
+Designed and implemented scalable AWS data pipelines using Databricks, Amazon Redshift, and S3 to support enterprise analytics and reporting.
+
+Built batch and incremental ETL/ELT workflows using PySpark and SQL, improving data availability and processing efficiency.
+
+Developed data validation, reconciliation, and quality checks to ensure accuracy and consistency across upstream and downstream systems.
+
+Optimized Redshift performance through query tuning, distribution styles, and sort keys, reducing query execution time.
+
+Collaborated with analytics and business teams to deliver analytics-ready data models supporting dashboards and KPIs.
 
 ---
 
@@ -35,8 +41,7 @@ Git · GitHub Actions · Jenkins · Docker · Terraform
 
 ---
 
-### 📌 Featured Projects
-*(Pin these repositories on your profile)*  
+### 📌 Featured Projects  
 - **AWS + Databricks + Redshift ETL Pipelines**  
 - **Streaming Pipelines using Kafka / Kinesis**  
 - **dbt Analytics Models & Airflow Orchestration**  

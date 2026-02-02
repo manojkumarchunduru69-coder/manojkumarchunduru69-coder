@@ -29,6 +29,7 @@ Collaborated with analytics and business teams to deliver analytics-ready data m
 ---
 
 ### 🛠️ Tech Stack
+ 🧑‍💻 Languages
 Python · SQL · PySpark · Scala · Java  
 
 ☁️ Cloud & Data Platforms

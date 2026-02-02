@@ -24,16 +24,13 @@
 
 ### 🛠️ Tech Stack
 
-#### 🧑‍💻 Languages
-Python · SQL · PySpark · Scala · Java  
-
-#### ☁️ Cloud & Data Platforms
-AWS · Databricks · Redshift · Snowflake · GCP · BigQuery  
-
-#### 🔁 Data Engineering
-Apache Spark · Airflow · dbt · Kafka · Kinesis · Hadoop · Hive  
-
-#### ⚙️ Tools & DevOps
+💻 Languages: Python Java C++ R SQL HTML CSS JavaScript
+🛢 Databases: SQL Server MySQL PostgreSQL MongoDB
+⚙️ Frameworks: Scikit-learn Flask Spring Boot
+🌐 Cloud: AWS Azure
+📊 Tools: Power BI Tableau Excel Git JIRA
+🧠 Big Data: Hadoop Spark
+🏆 Certifications: Google Data Analytics AWS Cloud Practitioner
 Git · GitHub Actions · Jenkins · Docker · Terraform  
 
 ---

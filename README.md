@@ -30,7 +30,7 @@ Collaborated with analytics and business teams to deliver analytics-ready data m
 
 ### 🛠️ Tech Stack
 
-•	💻 Languages:                
+•	💻 Languages: Python Java C++ R SQL HTML CSS JavaScript          
 •	🛢 Databases:        
 •	⚙️ Frameworks:      
 •	🌐 Cloud:    

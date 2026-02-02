@@ -31,13 +31,6 @@ Collaborated with analytics and business teams to deliver analytics-ready data m
 ### 🛠️ Tech Stack
 
 💻 Languages: Python Java C++ R SQL HTML CSS JavaScript
-🛢 Databases: SQL Server MySQL PostgreSQL MongoDB
-⚙️ Frameworks: Scikit-learn Flask Spring Boot
-🌐 Cloud: AWS Azure
-📊 Tools: Power BI Tableau Excel Git JIRA
-🧠 Big Data: Hadoop Spark
-🏆 Certifications: Google Data Analytics AWS Cloud Practitioner
-Git · GitHub Actions · Jenkins · Docker · Terraform  
 
 ---
 
